@@ -32,3 +32,15 @@
     border-radius: 50%;
     background-color: rgb(167, 33, 33);
   }
+  .last-div{
+    width: 70%;
+    background-color: rgb(160, 111, 51);
+    border: 5px solid cyan;
+    border-radius: 10px;
+    padding: 40px 30px;
+    margin: auto;
+    text-align: justify;
+  }
+  .last-div p{
+    color: rgb(58, 49, 49);
+  }
