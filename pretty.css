@@ -1,0 +1,34 @@
+.background {
+    background-color: rgb(37, 43, 41);
+    color: white;
+    width: 80%;
+    height: 100%;
+    text-align: left;
+    padding: 2rem 3rem;
+    margin: 2rem auto;
+    color: white;
+    border: 5px solid red;
+    font-size: 1.1rem;
+    line-height: 1.2;
+    font-weight: lighter;
+    letter-spacing: .1rem;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .div-text{
+    width: 60%;
+    float: left;
+  }
+  .div-img{
+    width:40%;
+    float: left;
+  }
+  .div-img img{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border: 5px solid rgb(255, 166, 237);
+    border-radius: 50%;
+    background-color: rgb(151, 29, 29);
+  }
