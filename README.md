@@ -1,4 +1,4 @@
-GIT START UP COMMAND
+GIT START UP COMMAND FOR NEW REPO
 
 echo "# deleted-repo" >> README.md
 git init
